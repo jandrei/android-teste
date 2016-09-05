@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/jandrei/workspace-android/GynGuide/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/jandrei/workspace-android/GynGuide/app/src/debug/shaders"/></dataSet></merger>
